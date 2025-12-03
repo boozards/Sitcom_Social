@@ -1,4 +1,4 @@
-# SitcomSocial : Hii Aagam Here!
+# SitcomSocial : Hii Aryan Here!
 
 I am the Devloper of SitcomSocial.
 SitcomSocial- A real-time personal and group chat web application
